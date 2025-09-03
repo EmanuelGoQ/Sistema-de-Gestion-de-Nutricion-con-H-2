@@ -104,5 +104,4 @@ public class Medicion {
         info.put("especialidad", nutricionista.getEspecialidad());
         return info;
     }
-
 }
